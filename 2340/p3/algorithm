@@ -1,0 +1,7 @@
+keep the size that you are merging together
+go through the loop until and when size is equal to the total size of the array
+in an inner for loop, call merge with the pointer to the current value, the next value, 
+and the size, increment the pointer by size.
+every time double the size of merge.
+
+by the end, the list will be sorted
